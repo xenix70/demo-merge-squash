@@ -1,2 +1,2 @@
 # demo-merge-squash
-test kode
+test kode b2
